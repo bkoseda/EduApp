@@ -8,7 +8,7 @@ public class Main {
         /* Local changes to be commited */
         /* Local changes to be commited */
         /* Local changes to be commited */
-        /* To bylo zmodyfikowane na remocie *./
+        /* To bylo zmodyfikowane na remocie aaa */
         System.out.println("Hello World");
     }
 }
